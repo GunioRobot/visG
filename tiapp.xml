@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:app xmlns:ti="http://ti.appcelerator.org">
+<id>visg.iphone</id>
+<name>Visg</name>
+<version>1.0</version>
+<publisher>binsterism</publisher>
+<url>http://ctrlsave.com</url>
+<description>No description provided</description>
+<copyright>2010 by binsterism</copyright>
+<icon>default_app_logo.png</icon>
+    <persistent-wifi>false</persistent-wifi>
+    <prerendered-icon>false</prerendered-icon>
+    <statusbar-style>default</statusbar-style>
+    <statusbar-hidden>false</statusbar-hidden>
+    <analytics>true</analytics>
+<guid>50a6b3b5-8279-4940-8979-1fe24e3eabeb</guid>
+</ti:app>
