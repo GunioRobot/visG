@@ -1,0 +1,605 @@
+TvisgMain
+v7
+r0
+t295159515.524112
+cCheck dependencies
+cProcessInfoPlistFile /Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app/Info.plist visgMain-Info.plist
+cCompileXIB /Users/binsterism/visG/visG_0.01/visgMain/MainWindow.xib
+cCompileXIB /Users/binsterism/visG/visG_0.01/visgMain/discoverView.xib
+cCompileXIB /Users/binsterism/visG/visG_0.01/visgMain/recordView.xib
+cCompileXIB /Users/binsterism/visG/visG_0.01/visgMain/broadcastView.xib
+cCompileXIB /Users/binsterism/visG/visG_0.01/visgMain/settingsView.xib
+cCpResource build/Debug-iphonesimulator/visgMain.app/broadcast.png broadcast.png
+cCpResource build/Debug-iphonesimulator/visgMain.app/Default.png Default.png
+cCpResource build/Debug-iphonesimulator/visgMain.app/discover.png discover.png
+cCpResource build/Debug-iphonesimulator/visgMain.app/record.png record.png
+cCpResource build/Debug-iphonesimulator/visgMain.app/settings.png settings.png
+cCpResource build/Debug-iphonesimulator/visgMain.app/buttonTest.png buttonTest.png
+cProcessPCH /var/folders/SV/SVcV4oxXFOyiwCQn1OS-3U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/visgMain_Prefix-dlnavylvrhvpcwemrcnbmobzbtlr/visgMain_Prefix.pch.gch visgMain_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/visgMain.build/Debug-iphonesimulator/visgMain.build/Objects-normal/i386/main.o /Users/binsterism/visG/visG_0.01/visgMain/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/visgMain.build/Debug-iphonesimulator/visgMain.build/Objects-normal/i386/visgMainAppDelegate.o /Users/binsterism/visG/visG_0.01/visgMain/Classes/visgMainAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/visgMain.build/Debug-iphonesimulator/visgMain.build/Objects-normal/i386/discoverView.o /Users/binsterism/visG/visG_0.01/visgMain/discoverView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/visgMain.build/Debug-iphonesimulator/visgMain.build/Objects-normal/i386/recordView.o /Users/binsterism/visG/visG_0.01/visgMain/recordView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/visgMain.build/Debug-iphonesimulator/visgMain.build/Objects-normal/i386/broadcastView.o /Users/binsterism/visG/visG_0.01/visgMain/broadcastView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/visgMain.build/Debug-iphonesimulator/visgMain.build/Objects-normal/i386/settingsView.o /Users/binsterism/visG/visG_0.01/visgMain/settingsView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app/visgMain normal i386
+cGenerateDSYMFile /Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app.dSYM /Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app/visgMain
+cTouch /Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B991A2900000000000000EE
+t1268324905
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004B2B634C000000000000017D
+t1261134668
+s381
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/binsterism/visG/Debug-iphonesimulator/visgMain.app
+t2
+s0
+
+N/Users/binsterism/visG/Debug-iphonesimulator/visgMain.app.dSYM
+t2
+s0
+
+N/Users/binsterism/visG/Debug-iphonesimulator/visgMain.app/Info.plist
+t2
+s0
+
+N/Users/binsterism/visG/Debug-iphonesimulator/visgMain.app/MainWindow.nib
+t2
+s0
+
+N/Users/binsterism/visG/Debug-iphonesimulator/visgMain.app/PkgInfo
+t2
+s0
+
+N/Users/binsterism/visG/Debug-iphonesimulator/visgMain.app/broadcast.png
+t2
+s0
+
+N/Users/binsterism/visG/Debug-iphonesimulator/visgMain.app/broadcastView.nib
+t2
+s0
+
+N/Users/binsterism/visG/Debug-iphonesimulator/visgMain.app/discover.png
+t2
+s0
+
+N/Users/binsterism/visG/Debug-iphonesimulator/visgMain.app/discoverView.nib
+t2
+s0
+
+N/Users/binsterism/visG/Debug-iphonesimulator/visgMain.app/record.png
+t2
+s0
+
+N/Users/binsterism/visG/Debug-iphonesimulator/visgMain.app/recordView.nib
+t2
+s0
+
+N/Users/binsterism/visG/Debug-iphonesimulator/visgMain.app/settings.png
+t2
+s0
+
+N/Users/binsterism/visG/Debug-iphonesimulator/visgMain.app/settingsView.nib
+t2
+s0
+
+N/Users/binsterism/visG/Debug-iphonesimulator/visgMain.app/visgMain
+t2
+s0
+
+N/Users/binsterism/visG/visG_0.01/visgMain/Classes/visgMainAppDelegate.h
+c000000004BE73F5900000000000001E8
+t1273446233
+s488
+i<UIKit/UIKit.h>
+
+N/Users/binsterism/visG/visG_0.01/visgMain/Classes/visgMainAppDelegate.m
+c000000004BE7145F0000000000000233
+t1273435231
+s563
+i"visgMainAppDelegate.h"
+
+N/Users/binsterism/visG/visG_0.01/visgMain/Default.png
+c000000004BE71E1E0000000000009089
+t1273437726
+s37001
+
+N/Users/binsterism/visG/visG_0.01/visgMain/MainWindow.xib
+c000000004BE728B70000000000006D8B
+t1273440439
+s28043
+
+N/Users/binsterism/visG/visG_0.01/visgMain/broadcast.png
+c000000004BE71AF000000000000000CD
+t1273436912
+s205
+
+N/Users/binsterism/visG/visG_0.01/visgMain/broadcastView.h
+c000000004BE712BE00000000000000E0
+t1273434814
+s224
+i<UIKit/UIKit.h>
+
+N/Users/binsterism/visG/visG_0.01/visgMain/broadcastView.m
+c000000004BE712BE0000000000000569
+t1273434814
+s1385
+i"broadcastView.h"
+
+N/Users/binsterism/visG/visG_0.01/visgMain/broadcastView.xib
+c000000004BE752030000000000005E17
+t1273451011
+s24087
+
+N/Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app
+t1273457635
+s544
+
+N/Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app.dSYM
+t1273446234
+s102
+
+N/Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app/Default.png
+t1273440188
+s37001
+
+N/Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app/Info.plist
+t1273440187
+s568
+
+N/Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app/MainWindow.nib
+t1273441511
+s3208
+
+N/Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app/PkgInfo
+t1273440187
+s8
+
+N/Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app/broadcast.png
+t1273440188
+s205
+
+N/Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app/broadcastView.nib
+t1273451012
+s3261
+
+N/Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app/buttonTest.png
+t1273448178
+s1328
+
+N/Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app/discover.png
+t1273440188
+s327
+
+N/Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app/discoverView.nib
+t1273446858
+s3348
+
+N/Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app/record.png
+t1273440188
+s389
+
+N/Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app/recordView.nib
+t1273448535
+s3484
+
+N/Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app/settings.png
+t1273440188
+s161
+
+N/Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app/settingsView.nib
+t1273457635
+s3325
+
+N/Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app/visgMain
+t1273446234
+s21348
+
+N/Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/Objects-normal/i386/broadcastView.o
+t1273440190
+s29836
+
+N/Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/Objects-normal/i386/discoverView.o
+t1273444705
+s29824
+
+N/Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/Objects-normal/i386/main.o
+t1273440190
+s5964
+
+N/Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/Objects-normal/i386/recordView.o
+t1273440190
+s29796
+
+N/Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/Objects-normal/i386/settingsView.o
+t1273440190
+s29824
+
+N/Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/Objects-normal/i386/visgMain.LinkFileList
+c000000004BE727BB0000000000000328
+t1273440187
+s808
+
+N/Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/Objects-normal/i386/visgMainAppDelegate.o
+t1273446234
+s40892
+
+N/Users/binsterism/visG/visG_0.01/visgMain/buttonTest.png
+c000000004BE745250000000000000530
+t1273447717
+s1328
+
+N/Users/binsterism/visG/visG_0.01/visgMain/discover.png
+c000000004BE71A9B0000000000000147
+t1273436827
+s327
+
+N/Users/binsterism/visG/visG_0.01/visgMain/discoverView.h
+c000000004BE7393D00000000000000E0
+t1273444669
+s224
+i<UIKit/UIKit.h>
+
+N/Users/binsterism/visG/visG_0.01/visgMain/discoverView.m
+c000000004BE7395F0000000000000567
+t1273444703
+s1383
+i"discoverView.h"
+
+N/Users/binsterism/visG/visG_0.01/visgMain/discoverView.xib
+c000000004BE741C900000000000059E0
+t1273446857
+s23008
+
+N/Users/binsterism/visG/visG_0.01/visgMain/main.m
+c000000004BE711B3000000000000016B
+t1273434547
+s363
+i<UIKit/UIKit.h>
+
+N/Users/binsterism/visG/visG_0.01/visgMain/record.png
+c000000004BE71ACC0000000000000185
+t1273436876
+s389
+
+N/Users/binsterism/visG/visG_0.01/visgMain/recordView.h
+c000000004BE712B100000000000000DA
+t1273434801
+s218
+i<UIKit/UIKit.h>
+
+N/Users/binsterism/visG/visG_0.01/visgMain/recordView.m
+c000000004BE712B10000000000000560
+t1273434801
+s1376
+i"recordView.h"
+
+N/Users/binsterism/visG/visG_0.01/visgMain/recordView.xib
+c000000004BE748550000000000005A0A
+t1273448533
+s23050
+
+N/Users/binsterism/visG/visG_0.01/visgMain/settings.png
+c000000004BE71B2800000000000000A1
+t1273436968
+s161
+
+N/Users/binsterism/visG/visG_0.01/visgMain/settingsView.h
+c000000004BE712CB00000000000000DE
+t1273434827
+s222
+i<UIKit/UIKit.h>
+
+N/Users/binsterism/visG/visG_0.01/visgMain/settingsView.m
+c000000004BE712CB0000000000000566
+t1273434827
+s1382
+i"settingsView.h"
+
+N/Users/binsterism/visG/visG_0.01/visgMain/settingsView.xib
+c000000004BE76BE10000000000006887
+t1273457633
+s26759
+
+N/Users/binsterism/visG/visG_0.01/visgMain/visgMain_Prefix.pch
+c000000004BE711B300000000000000B9
+t1273434547
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/SV/SVcV4oxXFOyiwCQn1OS-3U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/visgMain_Prefix-daibmfejaqbuyzfjwsyxhounbcds/visgMain_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/SV/SVcV4oxXFOyiwCQn1OS-3U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/visgMain_Prefix-dlnavylvrhvpcwemrcnbmobzbtlr/visgMain_Prefix.pch.gch
+t1273440189
+s13034960
+
+NvisgMain-Info.plist
+c000000004BE711B3000000000000038D
+t1273434547
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies295159515#295159515#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/visgMain.build/Debug-iphonesimulator/visgMain.build/Objects-normal/i386/broadcastView.o /Users/binsterism/visG/visG_0.01/visgMain/broadcastView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s295132990.064720
+e295132990.162817
+r1
+xCompileC
+xbuild/visgMain.build/Debug-iphonesimulator/visgMain.build/Objects-normal/i386/broadcastView.o
+x/Users/binsterism/visG/visG_0.01/visgMain/broadcastView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/binsterism/visG/visG_0.01/visgMain/broadcastView.m295132990#295132990#0(0"0(0#0#57"/Users/binsterism/visG/visG_0.01/visgMain/broadcastView.m4300885448#1930"    cd /Users/binsterism/visG/visG_0.01/visgMain    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/visgMain-generated-files.hmap -I/Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/visgMain-own-target-headers.hmap -I/Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/visgMain-all-target-headers.hmap -iquote /Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/visgMain-project-headers.hmap -F/Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator -I/Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/include -I/Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/DerivedSources/i386 -I/Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/DerivedSources -include /var/folders/SV/SVcV4oxXFOyiwCQn1OS-3U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/visgMain_Prefix-dlnavylvrhvpcwemrcnbmobzbtlr/visgMain_Prefix.pch -c /Users/binsterism/visG/visG_0.01/visgMain/broadcastView.m -o /Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/Objects-normal/i386/broadcastView.o0#
+
+CCompileC build/visgMain.build/Debug-iphonesimulator/visgMain.build/Objects-normal/i386/discoverView.o /Users/binsterism/visG/visG_0.01/visgMain/discoverView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s295137505.171805
+e295137505.289957
+r1
+xCompileC
+xbuild/visgMain.build/Debug-iphonesimulator/visgMain.build/Objects-normal/i386/discoverView.o
+x/Users/binsterism/visG/visG_0.01/visgMain/discoverView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/binsterism/visG/visG_0.01/visgMain/discoverView.m295137505#295137505#0(0"0(0#0#56"/Users/binsterism/visG/visG_0.01/visgMain/discoverView.m4300885448#1928"    cd /Users/binsterism/visG/visG_0.01/visgMain    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/visgMain-generated-files.hmap -I/Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/visgMain-own-target-headers.hmap -I/Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/visgMain-all-target-headers.hmap -iquote /Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/visgMain-project-headers.hmap -F/Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator -I/Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/include -I/Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/DerivedSources/i386 -I/Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/DerivedSources -include /var/folders/SV/SVcV4oxXFOyiwCQn1OS-3U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/visgMain_Prefix-dlnavylvrhvpcwemrcnbmobzbtlr/visgMain_Prefix.pch -c /Users/binsterism/visG/visG_0.01/visgMain/discoverView.m -o /Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/Objects-normal/i386/discoverView.o0#
+
+CCompileC build/visgMain.build/Debug-iphonesimulator/visgMain.build/Objects-normal/i386/main.o /Users/binsterism/visG/visG_0.01/visgMain/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s295132989.945804
+e295132990.039271
+r1
+xCompileC
+xbuild/visgMain.build/Debug-iphonesimulator/visgMain.build/Objects-normal/i386/main.o
+x/Users/binsterism/visG/visG_0.01/visgMain/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/binsterism/visG/visG_0.01/visgMain/main.m295132989#295132990#0(0"0(0#0#48"/Users/binsterism/visG/visG_0.01/visgMain/main.m4300885448#1912"    cd /Users/binsterism/visG/visG_0.01/visgMain    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/visgMain-generated-files.hmap -I/Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/visgMain-own-target-headers.hmap -I/Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/visgMain-all-target-headers.hmap -iquote /Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/visgMain-project-headers.hmap -F/Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator -I/Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/include -I/Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/DerivedSources/i386 -I/Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/DerivedSources -include /var/folders/SV/SVcV4oxXFOyiwCQn1OS-3U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/visgMain_Prefix-dlnavylvrhvpcwemrcnbmobzbtlr/visgMain_Prefix.pch -c /Users/binsterism/visG/visG_0.01/visgMain/main.m -o /Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/Objects-normal/i386/main.o0#
+
+CCompileC build/visgMain.build/Debug-iphonesimulator/visgMain.build/Objects-normal/i386/recordView.o /Users/binsterism/visG/visG_0.01/visgMain/recordView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s295132990.039389
+e295132990.191846
+r1
+xCompileC
+xbuild/visgMain.build/Debug-iphonesimulator/visgMain.build/Objects-normal/i386/recordView.o
+x/Users/binsterism/visG/visG_0.01/visgMain/recordView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/binsterism/visG/visG_0.01/visgMain/recordView.m295132990#295132990#0(0"0(0#0#54"/Users/binsterism/visG/visG_0.01/visgMain/recordView.m4300885448#1924"    cd /Users/binsterism/visG/visG_0.01/visgMain    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/visgMain-generated-files.hmap -I/Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/visgMain-own-target-headers.hmap -I/Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/visgMain-all-target-headers.hmap -iquote /Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/visgMain-project-headers.hmap -F/Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator -I/Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/include -I/Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/DerivedSources/i386 -I/Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/DerivedSources -include /var/folders/SV/SVcV4oxXFOyiwCQn1OS-3U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/visgMain_Prefix-dlnavylvrhvpcwemrcnbmobzbtlr/visgMain_Prefix.pch -c /Users/binsterism/visG/visG_0.01/visgMain/recordView.m -o /Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/Objects-normal/i386/recordView.o0#
+
+CCompileC build/visgMain.build/Debug-iphonesimulator/visgMain.build/Objects-normal/i386/settingsView.o /Users/binsterism/visG/visG_0.01/visgMain/settingsView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s295132990.163025
+e295132990.271032
+r1
+xCompileC
+xbuild/visgMain.build/Debug-iphonesimulator/visgMain.build/Objects-normal/i386/settingsView.o
+x/Users/binsterism/visG/visG_0.01/visgMain/settingsView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/binsterism/visG/visG_0.01/visgMain/settingsView.m295132990#295132990#0(0"0(0#0#56"/Users/binsterism/visG/visG_0.01/visgMain/settingsView.m4300885448#1928"    cd /Users/binsterism/visG/visG_0.01/visgMain    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/visgMain-generated-files.hmap -I/Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/visgMain-own-target-headers.hmap -I/Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/visgMain-all-target-headers.hmap -iquote /Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/visgMain-project-headers.hmap -F/Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator -I/Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/include -I/Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/DerivedSources/i386 -I/Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/DerivedSources -include /var/folders/SV/SVcV4oxXFOyiwCQn1OS-3U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/visgMain_Prefix-dlnavylvrhvpcwemrcnbmobzbtlr/visgMain_Prefix.pch -c /Users/binsterism/visG/visG_0.01/visgMain/settingsView.m -o /Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/Objects-normal/i386/settingsView.o0#
+
+CCompileC build/visgMain.build/Debug-iphonesimulator/visgMain.build/Objects-normal/i386/visgMainAppDelegate.o /Users/binsterism/visG/visG_0.01/visgMain/Classes/visgMainAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s295139034.100018
+e295139034.169815
+r1
+xCompileC
+xbuild/visgMain.build/Debug-iphonesimulator/visgMain.build/Objects-normal/i386/visgMainAppDelegate.o
+x/Users/binsterism/visG/visG_0.01/visgMain/Classes/visgMainAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/binsterism/visG/visG_0.01/visgMain/Classes/visgMainAppDelegate.m295139034#295139034#0(0"0(0#0#71"/Users/binsterism/visG/visG_0.01/visgMain/Classes/visgMainAppDelegate.m4300885448#1950"    cd /Users/binsterism/visG/visG_0.01/visgMain    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/visgMain-generated-files.hmap -I/Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/visgMain-own-target-headers.hmap -I/Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/visgMain-all-target-headers.hmap -iquote /Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/visgMain-project-headers.hmap -F/Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator -I/Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/include -I/Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/DerivedSources/i386 -I/Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/DerivedSources -include /var/folders/SV/SVcV4oxXFOyiwCQn1OS-3U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/visgMain_Prefix-dlnavylvrhvpcwemrcnbmobzbtlr/visgMain_Prefix.pch -c /Users/binsterism/visG/visG_0.01/visgMain/Classes/visgMainAppDelegate.m -o /Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/Objects-normal/i386/visgMainAppDelegate.o0#
+
+CCompileXIB /Users/binsterism/visG/visG_0.01/visgMain/MainWindow.xib
+s295134310.845030
+e295134311.715592
+r1
+xCompileXIB
+x/Users/binsterism/visG/visG_0.01/visgMain/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib295134310#295134311#0(0"0(0#0#56"/Users/binsterism/visG/visG_0.01/visgMain/MainWindow.xib4300885448#492"    cd /Users/binsterism/visG/visG_0.01/visgMain    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app/MainWindow.nib /Users/binsterism/visG/visG_0.01/visgMain/MainWindow.xib0#
+
+CCompileXIB /Users/binsterism/visG/visG_0.01/visgMain/broadcastView.xib
+s295143812.236142
+e295143812.585645
+r1
+xCompileXIB
+x/Users/binsterism/visG/visG_0.01/visgMain/broadcastView.xib
+lSLF07#2@28"CompileXIB broadcastView.xib295143812#295143812#0(0"0(0#0#59"/Users/binsterism/visG/visG_0.01/visgMain/broadcastView.xib4300885448#498"    cd /Users/binsterism/visG/visG_0.01/visgMain    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app/broadcastView.nib /Users/binsterism/visG/visG_0.01/visgMain/broadcastView.xib0#
+
+CCompileXIB /Users/binsterism/visG/visG_0.01/visgMain/discoverView.xib
+s295139658.253201
+e295139658.606136
+r1
+xCompileXIB
+x/Users/binsterism/visG/visG_0.01/visgMain/discoverView.xib
+lSLF07#2@27"CompileXIB discoverView.xib295139658#295139658#0(0"0(0#0#58"/Users/binsterism/visG/visG_0.01/visgMain/discoverView.xib4300885448#496"    cd /Users/binsterism/visG/visG_0.01/visgMain    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app/discoverView.nib /Users/binsterism/visG/visG_0.01/visgMain/discoverView.xib0#
+
+CCompileXIB /Users/binsterism/visG/visG_0.01/visgMain/recordView.xib
+s295141335.639716
+e295141335.993949
+r1
+xCompileXIB
+x/Users/binsterism/visG/visG_0.01/visgMain/recordView.xib
+lSLF07#2@25"CompileXIB recordView.xib295141335#295141335#0(0"0(0#0#56"/Users/binsterism/visG/visG_0.01/visgMain/recordView.xib4300885448#492"    cd /Users/binsterism/visG/visG_0.01/visgMain    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app/recordView.nib /Users/binsterism/visG/visG_0.01/visgMain/recordView.xib0#
+
+CCompileXIB /Users/binsterism/visG/visG_0.01/visgMain/settingsView.xib
+s295150435.497502
+e295150435.924448
+r1
+xCompileXIB
+x/Users/binsterism/visG/visG_0.01/visgMain/settingsView.xib
+lSLF07#2@27"CompileXIB settingsView.xib295150435#295150435#0(0"0(0#0#58"/Users/binsterism/visG/visG_0.01/visgMain/settingsView.xib4300885448#496"    cd /Users/binsterism/visG/visG_0.01/visgMain    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app/settingsView.nib /Users/binsterism/visG/visG_0.01/visgMain/settingsView.xib0#
+
+CCpResource /Users/binsterism/visG/Debug-iphonesimulator/visgMain.app/broadcast.png broadcast.png
+r0
+
+CCpResource /Users/binsterism/visG/Debug-iphonesimulator/visgMain.app/discover.png discover.png
+r0
+
+CCpResource /Users/binsterism/visG/Debug-iphonesimulator/visgMain.app/record.png record.png
+r0
+
+CCpResource /Users/binsterism/visG/Debug-iphonesimulator/visgMain.app/settings.png settings.png
+r0
+
+CCpResource build/Debug-iphonesimulator/visgMain.app/Default.png Default.png
+s295132988.792658
+e295132988.845055
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/visgMain.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png295132988#295132988#0(0"0(0#0#53"/Users/binsterism/visG/visG_0.01/visgMain/Default.png4300885448#465"    cd /Users/binsterism/visG/visG_0.01/visgMain    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/binsterism/visG/visG_0.01/visgMain/Default.png /Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app0#
+
+CCpResource build/Debug-iphonesimulator/visgMain.app/broadcast.png broadcast.png
+s295132988.788727
+e295132988.844187
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/visgMain.app/broadcast.png
+xbroadcast.png
+lSLF07#2@18"Copy broadcast.png295132988#295132988#0(0"0(0#0#55"/Users/binsterism/visG/visG_0.01/visgMain/broadcast.png4300885448#467"    cd /Users/binsterism/visG/visG_0.01/visgMain    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/binsterism/visG/visG_0.01/visgMain/broadcast.png /Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app0#
+
+CCpResource build/Debug-iphonesimulator/visgMain.app/buttonTest.png buttonTest.png
+s295140978.875373
+e295140978.911662
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/visgMain.app/buttonTest.png
+xbuttonTest.png
+lSLF07#2@19"Copy buttonTest.png295140978#295140978#0(0"0(0#0#56"/Users/binsterism/visG/visG_0.01/visgMain/buttonTest.png4300885448#468"    cd /Users/binsterism/visG/visG_0.01/visgMain    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/binsterism/visG/visG_0.01/visgMain/buttonTest.png /Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app0#
+
+CCpResource build/Debug-iphonesimulator/visgMain.app/discover.png discover.png
+s295132988.793741
+e295132988.837860
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/visgMain.app/discover.png
+xdiscover.png
+lSLF07#2@17"Copy discover.png295132988#295132988#0(0"0(0#0#54"/Users/binsterism/visG/visG_0.01/visgMain/discover.png4300885448#466"    cd /Users/binsterism/visG/visG_0.01/visgMain    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/binsterism/visG/visG_0.01/visgMain/discover.png /Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app0#
+
+CCpResource build/Debug-iphonesimulator/visgMain.app/record.png record.png
+s295132988.796322
+e295132988.838188
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/visgMain.app/record.png
+xrecord.png
+lSLF07#2@15"Copy record.png295132988#295132988#0(0"0(0#0#52"/Users/binsterism/visG/visG_0.01/visgMain/record.png4300885448#464"    cd /Users/binsterism/visG/visG_0.01/visgMain    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/binsterism/visG/visG_0.01/visgMain/record.png /Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app0#
+
+CCpResource build/Debug-iphonesimulator/visgMain.app/settings.png settings.png
+s295132988.798061
+e295132988.844409
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/visgMain.app/settings.png
+xsettings.png
+lSLF07#2@17"Copy settings.png295132988#295132988#0(0"0(0#0#54"/Users/binsterism/visG/visG_0.01/visgMain/settings.png4300885448#466"    cd /Users/binsterism/visG/visG_0.01/visgMain    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/binsterism/visG/visG_0.01/visgMain/settings.png /Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app0#
+
+CGenerateDSYMFile /Users/binsterism/visG/Debug-iphonesimulator/visgMain.app.dSYM /Users/binsterism/visG/Debug-iphonesimulator/visgMain.app/visgMain
+r0
+
+CGenerateDSYMFile /Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app.dSYM /Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app/visgMain
+s295139034.372595
+e295139034.458262
+r1
+xGenerateDSYMFile
+x/Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app.dSYM
+x/Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app/visgMain
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/visgMain.app.dSYM build/Debug-iphonesimulator/visgMain.app/visgMain295139034#295139034#0(0"0(0#0#91"/Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app/visgMain4300885448#395"    cd /Users/binsterism/visG/visG_0.01/visgMain    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app/visgMain -o /Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app.dSYM0#
+
+CLd /Users/binsterism/visG/Debug-iphonesimulator/visgMain.app/visgMain normal i386
+r0
+
+CLd /Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app/visgMain normal i386
+s295139034.169913
+e295139034.372476
+r1
+xLd
+x/Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app/visgMain
+xnormal
+xi386
+lSLF07#2@96"Link /Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app/visgMain295139034#295139034#0(0"0(0#0#0"4300885448#884"    cd /Users/binsterism/visG/visG_0.01/visgMain    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator -F/Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator -filelist /Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/Objects-normal/i386/visgMain.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app/visgMain0#
+
+CProcessInfoPlistFile /Users/binsterism/visG/Debug-iphonesimulator/visgMain.app/Info.plist visgMain-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app/Info.plist visgMain-Info.plist
+s295132987.977286
+e295132987.998948
+r1
+xProcessInfoPlistFile
+x/Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app/Info.plist
+xvisgMain-Info.plist
+lSLF07#2@27"Process visgMain-Info.plist295132987#295132988#0(0"0(0#0#61"/Users/binsterism/visG/visG_0.01/visgMain/visgMain-Info.plist4300885448#491"    cd /Users/binsterism/visG/visG_0.01/visgMain    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility visgMain-Info.plist -genpkginfo /Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app/Info.plist0#
+
+CProcessPCH /var/folders/SV/SVcV4oxXFOyiwCQn1OS-3U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/visgMain_Prefix-daibmfejaqbuyzfjwsyxhounbcds/visgMain_Prefix.pch.gch visgMain_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/SV/SVcV4oxXFOyiwCQn1OS-3U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/visgMain_Prefix-dlnavylvrhvpcwemrcnbmobzbtlr/visgMain_Prefix.pch.gch visgMain_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s295132989.023206
+e295132989.945625
+r1
+xProcessPCH
+x/var/folders/SV/SVcV4oxXFOyiwCQn1OS-3U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/visgMain_Prefix-dlnavylvrhvpcwemrcnbmobzbtlr/visgMain_Prefix.pch.gch
+xvisgMain_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile visgMain_Prefix.pch295132989#295132989#0(0"0(0#0#61"/Users/binsterism/visG/visG_0.01/visgMain/visgMain_Prefix.pch4300885448#1800"    cd /Users/binsterism/visG/visG_0.01/visgMain    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/visgMain-generated-files.hmap -I/Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/visgMain-own-target-headers.hmap -I/Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/visgMain-all-target-headers.hmap -iquote /Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/visgMain-project-headers.hmap -F/Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator -I/Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/include -I/Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/DerivedSources/i386 -I/Users/binsterism/visG/visG_0.01/visgMain/build/visgMain.build/Debug-iphonesimulator/visgMain.build/DerivedSources -c /Users/binsterism/visG/visG_0.01/visgMain/visgMain_Prefix.pch -o /var/folders/SV/SVcV4oxXFOyiwCQn1OS-3U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/visgMain_Prefix-dlnavylvrhvpcwemrcnbmobzbtlr/visgMain_Prefix.pch.gch0#
+
+CTouch /Users/binsterism/visG/Debug-iphonesimulator/visgMain.app
+r0
+
+CTouch /Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app
+s295150435.925314
+e295150435.947616
+r1
+xTouch
+x/Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app
+lSLF07#2@88"Touch /Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app295150435#295150435#0(0"0(0#0#0"4300885448#285"    cd /Users/binsterism/visG/visG_0.01/visgMain    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/binsterism/visG/visG_0.01/visgMain/build/Debug-iphonesimulator/visgMain.app0#
+
