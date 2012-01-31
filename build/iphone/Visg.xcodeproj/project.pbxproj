@@ -34,7 +34,7 @@
 		B4EA732E0FBC989D005AA7FB /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4EA72F00FBC9868005AA7FB /* AVFoundation.framework */; };
 		B4EA732F0FBC98A1005AA7FB /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4EA72C80FBC9857005AA7FB /* SystemConfiguration.framework */; };
 		B4EA83660FBCA52C005AA7FB /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = B4EA83650FBCA52B005AA7FB /* Default.png */; };
-		
+
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */

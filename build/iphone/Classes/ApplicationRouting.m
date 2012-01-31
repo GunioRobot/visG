@@ -7,7 +7,7 @@
 #import <Foundation/Foundation.h>
 #import "ApplicationRouting.h"
 
-extern NSData * decode64 (NSData * thedata); 
+extern NSData * decode64 (NSData * thedata);
 extern NSData * dataWithHexString (NSString * hexString);
 extern NSData * decodeDataWithKey (NSData * thedata, NSString * key);
 

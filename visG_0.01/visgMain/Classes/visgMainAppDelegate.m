@@ -13,18 +13,18 @@
 @synthesize window;
 @synthesize tabBarController;
 
-- (void)applicationDidFinishLaunching:(UIApplication *)application {    
+- (void)applicationDidFinishLaunching:(UIApplication *)application {
 
     // Override point for customization after application launch
     [window addSubview:tabBarController.view];
-	
+
 }
 
 
 - (void)dealloc {
     [tabBarController release];
 	[window release];
-	
+
     [super dealloc];
 }
 

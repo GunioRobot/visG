@@ -9,9 +9,9 @@
 #import <UIKit/UIKit.h>
 
 @interface visgMainAppDelegate : NSObject <UIApplicationDelegate, UITabBarControllerDelegate> {
-    
+
 	UIWindow *window;
-	
+
 	IBOutlet UITabBarController *tabBarController;
 
 }
